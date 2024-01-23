@@ -1,0 +1,9 @@
+# ninja log v5
+59	369	7277418394543896	CMakeFiles/godot.dir/C_/Users/fabia/Documents/GitHub/godot/drivers/pulseaudio/audio_driver_pulseaudio.cpp.obj	43103c9394ca27b4
+37	150	7277418544309282	CMakeFiles/godot.dir/C_/Users/fabia/Documents/GitHub/godot/drivers/wasapi/audio_driver_wasapi.cpp.obj	1669c919feac3278
+0	80	0	clean	9992afb1f91dc381
+64	360	7277419018145334	CMakeFiles/godot.dir/C_/Users/fabia/Documents/GitHub/godot/drivers/pulseaudio/audio_driver_pulseaudio.cpp.obj	43103c9394ca27b4
+0	90	0	clean	9992afb1f91dc381
+63	150	7277419064424624	CMakeFiles/godot.dir/C_/Users/fabia/Documents/GitHub/godot/drivers/pulseaudio/audio_driver_pulseaudio.cpp.obj	43103c9394ca27b4
+0	74	0	clean	9992afb1f91dc381
+59	159	7277419078204217	CMakeFiles/godot.dir/C_/Users/fabia/Documents/GitHub/godot/drivers/pulseaudio/audio_driver_pulseaudio.cpp.obj	43103c9394ca27b4
